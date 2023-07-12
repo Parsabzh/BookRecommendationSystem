@@ -1,4 +1,4 @@
-﻿
+﻿@model IEnumerable<BookModel>
 @{
     Layout = null;
 }
@@ -7,9 +7,84 @@
 
 <html>
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>ShowResult</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&amp;display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="table/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="table/css/owl.carousel.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="table/css/bootstrap.min.css">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="table/css/style.css">
+
+    <title>Result</title>
 </head>
 <body>
+
+
+    <div class="content">
+
+        <div class="container">
+            <h2 class="mb-5">This is the result: </h2>
+
+            <div class="table-responsive">
+
+                <table class="table custom-table">
+                    <thead>
+                        <tr>
+                            <th scope="col">
+                                <label class="control control--checkbox">
+                                    <input type="checkbox" class="js-check-all">
+                                    <div class="control__indicator"></div>
+                                </label>
+                            </th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Author</th>
+                            <th scope="col">Isbn</th>
+                            <th scope="col">Year</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                                <td>
+                                    @item.Name
+                                </td>
+                                <td>
+                                    @item.Author
+                                </td>
+                                <td>
+                                    @item.Isbn
+                                </td>
+                                <td>
+                                    @item.Year
+                                </td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+    <script src="table/js/jquery-3.3.1.min.js"></script>
+    <script src="table/js/popper.min.js"></script>
+    <script src="table/js/bootstrap.min.js"></script>
+    <script src="table/js/main.js"></script>
+
 </body>
 </html>

@@ -249,6 +249,490 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\table\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\table\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\table\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\table\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\css\\style.css",
+      "PackagePath": "staticwebassets\\table\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\table\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\table\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\table\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\images\\person_5.jpg",
+      "PackagePath": "staticwebassets\\table\\images\\person_5.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\table\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\table\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\js\\main.js",
+      "PackagePath": "staticwebassets\\table\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\table\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\table\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\table\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Work\\Booki\\web\\booki\\booki\\wwwroot\\table\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\table\\scss\\style.scss"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.booki.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

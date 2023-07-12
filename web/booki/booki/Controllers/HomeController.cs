@@ -34,8 +34,10 @@ namespace booki.Controllers
             return RedirectToAction("ShowResult", new { book = data });
         }
 
-        public IActionResult ShowResult(BookModel book)
+        [HttpGet]
+        public IActionResult ShowResult(IEnumerable<BookModel> book)
         {
+
             return View(book);
         }
 
@@ -52,30 +54,21 @@ namespace booki.Controllers
         }
 
 
-        public async Task<BookModel?> GetDataFromFlaskApi(string apiUrl, string text)
+        public async Task<IEnumerable<BookModel?>> GetDataFromFlaskApi(string apiUrl, string text)
         {
-            var result = new BookModel();
-
-            try
-            {
-                
+            
                 var endpointUrl = $"{apiUrl}/book/{text}";
 
                 var response = await _httpClient.GetAsync(endpointUrl);
                 response.EnsureSuccessStatusCode();
                 var json = await response.Content.ReadAsStringAsync();
-                result = JsonSerializer.Deserialize<BookModel>(json, new JsonSerializerOptions
+                var result = JsonSerializer.Deserialize<IEnumerable<BookModel>>(json, new JsonSerializerOptions
                 {
                     PropertyNameCaseInsensitive = true
                 });
-                
-            }
-            catch (HttpRequestException ex)
-            {
-                if (result != null) result.Message = "Can not access to python";
-            }
 
-            return result;
+                Debug.Assert(result != null, nameof(result) + " != null");
+                return result;
         }
     }
 }
