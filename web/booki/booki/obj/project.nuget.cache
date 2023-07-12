@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3YdQFc+ayE6AkC9+EpVds4tDzS0AXFLPWuLaxeUbVF/HaxodnPvI45eNBwJrFspxkBtu+fk9iABuAfzLdSAIPQ==",
+  "dgSpecHash": "054KdKR3EugJMummnCduohev90BK5DbnXuBmQ0o/BCTMq+NTmF1dmSQaiwXd0RIfp+Ias5P75PZR0PnABEr4jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Parsa\\OneDrive\\University\\KDE\\Project\\Project\\infokde_boook_recommendation\\web\\booki\\booki\\booki.csproj",
+  "projectFilePath": "C:\\Work\\Booki\\web\\booki\\booki\\booki.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Parsa\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Parsa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

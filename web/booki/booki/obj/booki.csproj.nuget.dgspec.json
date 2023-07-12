@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Parsa\\OneDrive\\University\\KDE\\Project\\Project\\infokde_boook_recommendation\\web\\booki\\booki\\booki.csproj": {}
+    "C:\\Work\\Booki\\web\\booki\\booki\\booki.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Parsa\\OneDrive\\University\\KDE\\Project\\Project\\infokde_boook_recommendation\\web\\booki\\booki\\booki.csproj": {
+    "C:\\Work\\Booki\\web\\booki\\booki\\booki.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Parsa\\OneDrive\\University\\KDE\\Project\\Project\\infokde_boook_recommendation\\web\\booki\\booki\\booki.csproj",
+        "projectUniqueName": "C:\\Work\\Booki\\web\\booki\\booki\\booki.csproj",
         "projectName": "booki",
-        "projectPath": "C:\\Users\\Parsa\\OneDrive\\University\\KDE\\Project\\Project\\infokde_boook_recommendation\\web\\booki\\booki\\booki.csproj",
+        "projectPath": "C:\\Work\\Booki\\web\\booki\\booki\\booki.csproj",
         "packagesPath": "C:\\Users\\Parsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Parsa\\OneDrive\\University\\KDE\\Project\\Project\\infokde_boook_recommendation\\web\\booki\\booki\\obj\\",
+        "outputPath": "C:\\Work\\Booki\\web\\booki\\booki\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Parsa\\AppData\\Roaming\\NuGet\\NuGet.Config",

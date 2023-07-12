@@ -1,4 +1,4 @@
-﻿
+﻿@model BookModel
 @{
     Layout = null;
 }
@@ -18,8 +18,8 @@
 </head>
 <body>
 <!-- partial:index.partial.html -->
-<form class="search" action="">
-    <input type="search" placeholder="Search here..." required="">
+<form asp-action="GetText" asp-controller="Home" class="search" >
+    <input asp-for="GetText" type="search" placeholder="Search here..." required="">
     <button type="submit">Search</button>
 </form>
 <!-- partial -->

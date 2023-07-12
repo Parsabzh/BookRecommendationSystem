@@ -11,10 +11,16 @@
             GetText = getText ?? throw new ArgumentNullException(nameof(getText));
         }
 
+        public BookModel()
+        {
+            throw new NotImplementedException();
+        }
+
         public string Name { get; set; }
         public string Isbn { get; set; }
         public string Author { get; set; }
         public string Year { get; set; }
         public string GetText { get; set; }
+        public string Message { get; set; }
     }
 }
